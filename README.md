@@ -1,6 +1,8 @@
 ## Hi, I’m @SignorinoY 👋
 
-![Banner](https://user-images.githubusercontent.com/27880183/116825148-8813c680-abc0-11eb-9cfb-93711cca629f.png)
+<p align="center">
+  <img src="./banner.png" alt="Banner" />
+</p>
 
 - 🧐 Once interseted in full stack. Now focus on **Statistics**.
 - 🎓 Master of Statistics in SWUFE (expected June, 2023).
