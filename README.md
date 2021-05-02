@@ -1,5 +1,6 @@
-## Hi, I’m @SignorinoY 🎓!
+## Hi, I’m @SignorinoY 👋
 
-- 📖 Study at **SWUFE**, Magjor in **Statistics**
+- 🧐 Once interseted in full stack. Now focus on **Statistics**.
+- 🎓 Master of Statistics in SWUFE (expected June, 2023).
 
-![SingorinoY's GitHub stats](https://github-readme-stats.vercel.app/api?username=signorinoy&count_private=true)
+![SinorinoY's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=signorinoy&layout=compact)
