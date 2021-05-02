@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @SignorinoY
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi, I’m @SignorinoY 🎓!
 
-<!---
-SignorinoY/SignorinoY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📖 Study at **SWUFE**, Magjor in **Statistics**
+
+![SingorinoY's GitHub stats](https://github-readme-stats.vercel.app/api?username=signorinoy&count_private=true)
