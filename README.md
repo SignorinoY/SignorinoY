@@ -4,7 +4,6 @@
   <img src="./banner.png" alt="Banner" />
 </p>
 
-- 🧐 Once interseted in full stack. Now focus on **Statistics**.
 - 🎓 Master of Statistics in SWUFE (expected June, 2023).
 
 <details>
