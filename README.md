@@ -4,7 +4,7 @@
   <img src="./banner.png" alt="Banner" />
 </p>
 
-- 🎓 Master of Statistics in SWUFE (expected June, 2023).
+- 🎓 Ph.D student of Statistics in SWUFE (expected June, 2027).
 
 <details>
   <summary>Some Other Achievements about me</summary>
